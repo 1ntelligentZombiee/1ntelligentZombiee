@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm **Esraa Matarawy**
+### 🛡️ Cybersecurity Incident Response Analyst | Threat Hunter | Security Automation Enthusiast
 
-<!--
-**1ntelligentZombiee/1ntelligentZombiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGk3MjBla2UxN3Q1dDc4M3U1NjZrbTZhdW03bDNnc3F0MDMxMWJrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🕵️‍♀️ I investigate incidents, hunt threats, and enjoy outsmarting attacks.
+- 🔍 Love analyzing suspicious emails (especially the dramatic "URGENT! HR request" ones 😭).
+- 🧠 Curious mind with a passion for **malware analysis, SOC work, and building security tools**.
+- 🛠️ Previously built **PhishHunter**, which sparked my obsession with smart detection systems.
+- 🤖 Always exploring ways to automate boring analyst tasks.
+
+---
+
+## 🧩 Tech Stack
+### **🔐 Security & IR Tools**
+`QRadar` · `Kibana` · `Elasticsearch` · `FortiGate` · `FortiMail` · `Kaspersky` · `Burp Suite` · `Wireshark`
+
+### **💻 Programming & Development**
+`Python` · `Java` · `C/C++` · `SQL` · `JavaScript` 
+
+### **🌐 Web & Systems**
+`HTML/CSS` · `Node.js` · `Express` · `Linux` · `VMware` · `Hyper‑V`
+
+---
+
+## 🚀 Featured Project
+### **🧠 PhishHunter — Automated Phishing Detection & Response**
+A smart phishing detection system using **Python, NLP, ML, and behavioral analysis**.
+
+> 📨 _Because not every email deserves your trust… most deserve quarantine._
+
+🔗 *Add project link here once uploaded*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EsraaMatarawy&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaMatarawy&layout=compact&theme=radical" height="165" />
+</p>
+
+---
+
+## 🌟 Fun Facts
+- ☕ Functions better on coffee & warnings from the SIEM.
+- 🐾 Has a cat who tries to "help" during investigations.
+- 🔥 Can spot a phishing email faster than spotting drama in a WhatsApp group.
+
+---
+
+## 🤝 Let's Connect
+[LinkedIn](#) · [Portfolio](#) · [Email Me](mailto:esraamatarawy2@gmail.com)
+
+---
+
+### ✨ _Thanks for stopping by — may your logs be clean and your alerts be low!_ 🚨💙
+
