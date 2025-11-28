@@ -2,7 +2,7 @@
 ### 🛡️ Cybersecurity Incident Response Analyst | Threat Hunter | Security Automation Enthusiast
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGk3MjBla2UxN3Q1dDc4M3U1NjZrbTZhdW03bDNnc3F0MDMxMWJrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
 </p>
 
 ---
@@ -40,8 +40,8 @@ A smart phishing detection system using **Python, NLP, ML, and behavioral analys
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsraaMatarawy&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaMatarawy&layout=compact&theme=radical" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=esraamatarawy&show_icons=true&theme=radical" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraamatarawy&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
