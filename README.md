@@ -2,7 +2,7 @@
 ### 🛡️ Cybersecurity Incident Response Analyst | Threat Hunter | Security Automation Enthusiast
 
 <p align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
+<img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc3NmIzbGl0Z2I5NDZqczFxMjQxbWIzMmp4MjRuYnZjdzI4aHp4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif)" width="300" />
 </p>
 
 ---
@@ -21,10 +21,10 @@
 `QRadar` · `Kibana` · `Elasticsearch` · `FortiGate` · `FortiMail` · `Kaspersky` · `Burp Suite` · `Wireshark`
 
 ### **💻 Programming & Development**
-`Python` · `Java` · `C/C++` · `SQL` · `JavaScript` 
+`Python` · `Java` · `C/C++` · `SQL` · `JavaScript` · `Assembly ` 
 
 ### **🌐 Web & Systems**
-`HTML/CSS` · `Node.js` · `Express` · `Linux` · `VMware` · `Hyper‑V`
+`HTML/CSS` · `Node.js` · `Express` · `Angular` · `Spring` ·  `Linux` · `VMware` · `Hyper‑V`
 
 ---
 
@@ -34,8 +34,7 @@ A smart phishing detection system using **Python, NLP, ML, and behavioral analys
 
 > 📨 _Because not every email deserves your trust… most deserve quarantine._
 
-🔗 *Add project link here once uploaded*
-
+```
 ---
 
 ## 📊 GitHub Stats
@@ -45,6 +44,7 @@ A smart phishing detection system using **Python, NLP, ML, and behavioral analys
 </p>
 
 ---
+```
 
 ## 🌟 Fun Facts
 - ☕ Functions better on coffee & warnings from the SIEM.
@@ -54,7 +54,7 @@ A smart phishing detection system using **Python, NLP, ML, and behavioral analys
 ---
 
 ## 🤝 Let's Connect
-[LinkedIn](#) · [Portfolio](#) · [Email Me](mailto:esraamatarawy2@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/esraa-matarawy/) · [Email Me](mailto:esraamatarawy2@gmail.com)
 
 ---
 
