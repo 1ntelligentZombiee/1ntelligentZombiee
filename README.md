@@ -2,7 +2,7 @@
 ### 🛡️ Cybersecurity Incident Response Analyst | Threat Hunter | Security Automation Enthusiast
 
 <p align="center">
-<img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc3NmIzbGl0Z2I5NDZqczFxMjQxbWIzMmp4MjRuYnZjdzI4aHp4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif)" width="300" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc3NmIzbGl0Z2I5NDZqczFxMjQxbWIzMmp4MjRuYnZjdzI4aHp4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="300" />
 </p>
 
 ---
@@ -34,17 +34,7 @@ A smart phishing detection system using **Python, NLP, ML, and behavioral analys
 
 > 📨 _Because not every email deserves your trust… most deserve quarantine._
 
-```
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=esraamatarawy&show_icons=true&theme=radical" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraamatarawy&layout=compact&theme=radical" height="165" />
-</p>
-
----
-```
 
 ## 🌟 Fun Facts
 - ☕ Functions better on coffee & warnings from the SIEM.
