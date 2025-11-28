@@ -2,7 +2,7 @@
 ### 🛡️ Cybersecurity Incident Response Analyst | Threat Hunter | Security Automation Enthusiast
 
 <p align="center">
-<img src="<div class="tenor-gif-embed" data-postid="4373606555250453292" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292">Ghostedvpn Hacker Cat GIF</a>from <a href="https://tenor.com/search/ghostedvpn-gifs">Ghostedvpn GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="300" />
+div class="tenor-gif-embed" data-postid="4373606555250453292" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292">Ghostedvpn Hacker Cat GIF</a>from <a href="https://tenor.com/search/ghostedvpn-gifs">Ghostedvpn GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 ---
