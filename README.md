@@ -2,7 +2,7 @@
 ### 🛡️ Cybersecurity Incident Response Analyst | Threat Hunter | Security Automation Enthusiast
 
 <p align="center">
-<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/7ca54def-7134-4488-93e9-d59dd0446f9a" width="300" />
+<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/7ca54def-7134-4488-93e9-d59dd0446f9a"/>
 </p>
 
 ---
