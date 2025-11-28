@@ -2,7 +2,7 @@
 ### 🛡️ Cybersecurity Incident Response Analyst | Threat Hunter | Security Automation Enthusiast
 
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc3NmIzbGl0Z2I5NDZqczFxMjQxbWIzMmp4MjRuYnZjdzI4aHp4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="300" />
+<img src="https://tenor.com/fnfkmcVpV2K.gif" width="300" />
 </p>
 
 ---
